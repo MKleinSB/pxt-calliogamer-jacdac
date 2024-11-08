@@ -3,12 +3,16 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "v3": "*",
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.28",
+        "jacdac-gamepad": "github:microsoft/pxt-jacdac/gamepad#v1.9.28"
     },
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "calliogamer-jacdac.ts"
     ],
     "testFiles": [
         "test.ts"
