@@ -83,7 +83,7 @@ namespace servers {
     }
 
     function start() {
-        jacdac.productIdentifier = 0x3765a240
+        jacdac.productIdentifier = 0x3b23a27f
         jacdac.deviceDescription = "M.Klein's CallioGamer"
         jacdac.startSelfServers(() => {
             pins.pushButton(DigitalPin.P0);
