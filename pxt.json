@@ -1,7 +1,7 @@
 {
     "name": "pxt-calliogamer-jacdac",
     "version": "0.0.1",
-    "description": "",
+    "description": "Jacdac for the CallioGamer gamepad",
     "dependencies": {
         "core": "*",
         "v3": "*",
